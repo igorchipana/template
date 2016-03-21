@@ -1,0 +1,147 @@
+*{
+    margin:  auto;
+}
+body{
+    background: black;
+}
+header{
+    width: 100%;
+    heigth: 100px;
+    background: black;
+    font-family: algerian;
+    font-size:80px;
+    font-weight: bold;
+    color: buttonface;
+    border: px solid white;
+    padding-top:20px;
+  
+}
+.y{
+    
+    float:right;
+}
+.tabla{
+    font-family: bold;
+    font-size:28px;
+    color: white;
+     border: 1px solid white;
+}
+.tabla nav{
+    width: 55%;
+    height: 90px;
+    //margin: % 0;
+}
+.tabla nav{
+    background-color: #666;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+   
+}
+.tabla nav ul{
+    list-style: none;
+    margin: 0 auto;
+    
+}
+.tabla nav ul li{
+    float: left;
+    display: inlineine;
+   
+}
+.tabla nav a:link, .tabla nav a:visited{
+    color:#FFF;
+    display: inline-block;
+    padding: 28px 32px;
+    height: 10 px;
+}
+.tabla nav a:hover,  .tabla nav a:active,
+.tabla nav .active a:link, .tabla nav.active a:visited{
+    background-color: #CF5C3F;
+    text-shadow: none;
+       
+}
+.tabla nav ul li a {
+    background-color: #666;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.hola{
+    font-family: cursive;
+    font-size:29px;;
+    color: lavender;
+    
+}
+.hola{
+   // left: 50px;
+    width: 100%;
+    height: 50px;
+    margin:none;
+}
+.hola{
+    background-color: black;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+.hola nav ul{
+    list-style: none;
+    margin: 0 auto;
+}
+.hola nav ul li{
+    float: right;
+    display: inlineine;
+}
+.hola nav a:link, .hola nav a:visited{
+    color:#FFF;
+    display: inline-block;
+    padding: 1px 50px;
+    height:30 px;
+}
+.hola nav a:hover,  .hola nav a:active,
+.hola nav .activ a:link, .hola nav.active a:visited{
+    background-color: #cccccc;
+    text-shadow: none;
+}    
+.hola nav ul li a {
+    background-color: #666;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.comentario1{
+    line-height: 30px;
+    border-radius: 8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius: 8px;
+    overflow: hidden;
+    with:25%;
+    float: right;
+    background-color:#cccccc
+    
+}
+.comentario2{
+    line-height: 30px;
+    border-radius: 8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius: 8px;
+    overflow: hidden;
+    with:25%;
+    float: right;
+    background-color:#cccccc
+}
+.comentario3{
+    line-height: 30px;
+    border-radius: 8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius: 8px;
+    overflow: hidden;
+    with:25%;
+    float: right;
+    background-color:#cccccc;
+}
+.final{
+    background-color:black;
+    color: white;
+}
+#right{
+    text-align: right;
+    float: right;
+}
